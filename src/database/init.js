@@ -46,7 +46,7 @@ const initDb = {
                 75
             )
         `)
-
+/*
         await db.run(`
             INSERT INTO jobs(
                 name,
@@ -74,7 +74,7 @@ const initDb = {
                 1617514376018
             )
         `)
-
+*/
         await db.close()
     }
 }
