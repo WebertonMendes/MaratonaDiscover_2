@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="dev.finances" src=".github/jobscalc.png" width="100%">
+  <img alt="jobsCalc" src="https://github.com/WebertonMendes/MaratonaDiscover_2/blob/master/public/images/jobscalc.png?raw=true" width="100%">
 </p>
 
 ## 🚀 Tecnologias
